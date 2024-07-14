@@ -1,4 +1,5 @@
 #  Xfit: Your Ultimate Diet Tracking Companion
+![Xfit](https://github.com/user-attachments/assets/bf4a6742-41f0-4244-a88f-1502f3a2e604)
 In a world where health and fitness are paramount, the Xfit app is designed to help users track their diet progress by logging daily meals in grams and calculating the nutritional content for each meal and the entire day. Xfit integrates advanced technology and clean architecture to provide an intuitive and efficient user experience.
 
 ## Features
