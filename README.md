@@ -5,25 +5,25 @@ In a world where health and fitness are paramount, the Xfit app is designed to h
 ## Features
 What's Xfit All About?
 
-🔑 PMR Calculation:
-
+### 🔑 PMR Calculation:
 Start by taking a quiz to calculate your Personal Metabolic Rate (PMR).
-🍽️ Meal Logging:
 
+🍽️ Meal Logging:
 Log your daily meals in grams.
 Automatically calculate the nutritional content for each meal and the total nutrients consumed in a day.
+
 ⭐ Favorite Meals:
-
 Add meals to your favorites for quick and easy access.
+
 👥 Community Meals:
-
 Introduce new meals that anyone using the app can view and add to their logs.
+
 🔔 Push Notifications:
-
 Stay informed with timely notifications about your diet progress and reminders.
-📚 Diet Information:
 
+📚 Diet Information:
 Access detailed information about various diet plans and topics to help you stay informed and make better dietary choices.
+
 Technical Overview
 Xfit is built using a clean architecture, ensuring well-organized, scalable, and maintainable code. The app leverages Firebase for secure and seamless data management.
 
