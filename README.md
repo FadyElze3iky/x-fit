@@ -36,7 +36,7 @@ To get started with Xfit, follow these steps:
 
 
 Happy tracking!
-![Screenshot_1720985486](https://github.com/user-attachments/assets/dd187c3a-425e-4586-b1ab-c5aaeefaf41b)
+![Screenshot_1720985486](https://github.com/user-attachments/assets/dd187c3a-425e-4586-b1ab-c5aaeefaf41b width 300)
 ![Screenshot_1720985681](https://github.com/user-attachments/assets/64f5b41d-c8fa-4896-99a0-7b14b333d981)
 ![Screenshot_1720985491](https://github.com/user-attachments/assets/7aaba369-f665-493c-a7f5-463d64035b20)
 ![Screenshot_1720985685](https://github.com/user-attachments/assets/e1728ce0-d70e-4946-b557-4d25912528ad)
