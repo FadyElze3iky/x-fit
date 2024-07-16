@@ -65,8 +65,6 @@ Happy tracking!
 
 <img src="https://github.com/user-attachments/assets/754f3b04-d063-44d7-90a0-f948ae065cd6" alt="Screenshot_14" width="300">
 
-<img src="https://github.com/user-attachments/assets/1f7d9eee-6f72-4227-9864-743552585421" alt="Screenshot_15" width="300">
-
 <img src="https://github.com/user-attachments/assets/333d7535-200e-4f1a-a418-e89d00f1c988" alt="Screenshot_16" width="300">
 
 <img src="https://github.com/user-attachments/assets/9a9df91f-c3a5-41b5-aed4-c47f33650779" alt="Screenshot_17" width="300">
@@ -75,6 +73,7 @@ Happy tracking!
 
 <img src="https://github.com/user-attachments/assets/5836e415-7935-4c0b-832d-ba96381a84eb" alt="Screenshot_19" width="300">
 
+<img src="https://github.com/user-attachments/assets/1f7d9eee-6f72-4227-9864-743552585421" alt="Screenshot_15" width="300">
 
 
 
