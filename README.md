@@ -2,6 +2,10 @@
 ![Xfit](https://github.com/user-attachments/assets/bf4a6742-41f0-4244-a88f-1502f3a2e604)
 In a world where health and fitness are paramount, the Xfit app is designed to help users track their diet progress by logging daily meals in grams and calculating the nutritional content for each meal and the entire day. Xfit integrates advanced technology and clean architecture to provide an intuitive and efficient user experience.
 
+## Amazon AppStore
+[Download now!](https://www.amazon.com/Fady-Elzeaky-X-Fit/dp/B0DTYF3HDP/ref=sr_1_1?crid=2S8XNXBB3TEGP&dib=eyJ2IjoiMSJ9.E5UtHP_rxF9WuG-80qYb8M9vBynl3R6O95UcP6L-CRQaEIkG-ZlF_X_yMJGTas8r6hDHCqqZAF8gGRqbK7bh8EnyMtoPQjoXpeK420BZ1gIoM1YcLnZV2Gus1OeLY9UVSth7YWZb2jeoZY4FadoxZmhff2ZCXgNI2Jd9OLpMj6pHN_Vb4Do6oHa83XYAGIqZUjsfBqywnkRiYBElkN3qVr-gUjdw36qMrcaVmHXrHuZ5f3VOH2J25P5GCLCGWC_e26C_m-XHdQLyagV_mh7uHDB8kNM82nuDkWREQUP5oUQsmNbLsz_RIJlt1OZTvNXUKp4Xfkzjo_k3DsKsEz0fAOu54w_hSQKufC-lDAccadUNppdmgtEWMNIwGw8nS48xu6ikvhGxqPFxeQpPFG-yUq_d8qCTXFugHtkhnlsgrbQunzymU-VKmgN1cSTWXNwM.7CVUhxU_HJDobzPdmOf6Ig-4wt_JDKj57-9Sb3LGYrI&dib_tag=se&keywords=x+fit+mobile+app&qid=1739805442&sprefix=x+fit+mobile+app%2Caps%2C262&sr=8-1)
+
+
 ## Features
 What's Xfit All About?
 
